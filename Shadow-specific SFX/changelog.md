@@ -1,3 +1,5 @@
+## Version 1.1h (Hotfix)
+- Corrected an error with the adjusted boost audio (had included an earlier, loud mix by accident)
 ## Version 1.1
 - First version with update support!
 - Added a toggle for the vanilla boost audio
