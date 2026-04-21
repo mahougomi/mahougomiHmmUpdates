@@ -1,0 +1,41 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Configuration",
+         "Elements":
+         [
+			{
+               "Name":"IncludeDir0",
+               "DisplayName":"Boost Audio",
+               "Description":[
+                  "Choose whether to include the new boost sound (whistling).",
+               ],
+               "Type":"IncDir0",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"Modded"
+            }
+         ]
+      }
+   ],
+   "Enums":{
+      "IncDir0":[
+         {
+            "DisplayName":"Modded",
+            "Value":"NewBoost",
+            "Description":[
+               "Use the Forces-style boost sfx.",
+            ]
+         },
+		 {
+            "DisplayName":"Vanilla",
+            "Value":"OldBoost",
+            "Description":[
+              "Use the vanilla boost sfx.",
+            ]
+         },
+      ]
+   },
+   "IniFile":"mod.ini"
+}
