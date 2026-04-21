@@ -1,0 +1,5 @@
+delete raw/sound/shadow_sound/se_miller_character_shadow.acb
+add NewBoost/raw/sound/shadow_sound/se_miller_character_shadow.acb
+add OldBoost/raw/sound/shadow_sound/se_miller_character_shadow.acb
+add Config.json
+add mod.ini
