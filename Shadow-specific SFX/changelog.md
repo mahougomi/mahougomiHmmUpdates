@@ -1,4 +1,5 @@
 ## Version 1.1
+- First version with update support!
 - Added a toggle for the vanilla boost audio
 - Adjusted the boost audio in the primary version:
   - Shockwave sound is now the one from the HE1 games
